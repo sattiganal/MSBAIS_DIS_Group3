@@ -8,6 +8,7 @@ namespace HelloWorldFromGroup3
         {
             Console.WriteLine("Hello World from Shyam Attiganal!");
             Console.WriteLine("Hello World from Brian Hammond!");
+            Console.WriteLine("Hello World from Venkata Telaprolu!");
         }
     }
 }
